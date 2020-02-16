@@ -1,4 +1,4 @@
-# 小圆点 / PageControl
+# 小圆点 / PageControl - Swift 版
 
 ## ✨支持自定义
 
