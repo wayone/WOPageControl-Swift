@@ -1,5 +1,9 @@
 # 小圆点 / pageControl
 
+###### （如果下面的图挂了，请在梯子中添加域名 githubusercontent.com）
+
+![img](https://github.com/wayone/WOPageControl/blob/master/animation.gif)
+
 ✨ 支持自定义
 
 - 形状：圆形、方形。
@@ -24,7 +28,3 @@
 
     // 修改当前页
     pageControl.currentPage = 1
-
-###### （如果下面的图挂了，请在梯子中添加域名 githubusercontent.com）
-
-![img](https://github.com/wayone/WOPageControl/blob/master/animation.gif)
