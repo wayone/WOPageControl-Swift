@@ -1,4 +1,4 @@
-# 小圆点 / pageControl
+# 小圆点 / PageControl
 
 ###### （如果下面的图挂了，请在梯子中添加域名 githubusercontent.com）
 
