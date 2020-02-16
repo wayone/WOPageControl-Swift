@@ -1,6 +1,6 @@
 # 小圆点 / PageControl
 
-✨ 支持自定义
+## ✨支持自定义
 
 - 形状：圆形、方形。
 - 大小。
@@ -11,7 +11,7 @@
 
 ![img](https://github.com/wayone/WOPageControl/blob/master/animation.gif)
 
-✨ 示例代码
+## ✨示例代码
 ```swift
 // 添加控件
 let pageControl = WOPageControl(frame: CGRect(x:110, y:150, width: 200, height: 20))
