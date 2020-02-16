@@ -1,15 +1,15 @@
 # 小圆点 / PageControl
 
-###### （如果下面的图挂了，请在梯子中添加域名 githubusercontent.com）
-
-![img](https://github.com/wayone/WOPageControl/blob/master/animation.gif)
-
 ✨ 支持自定义
 
 - 形状：圆形、方形。
 - 大小。
 - 间距。
 - 颜色。
+
+###### （如果下面的图挂了，请在梯子中添加域名 githubusercontent.com）
+
+![img](https://github.com/wayone/WOPageControl/blob/master/animation.gif)
 
 ✨ 示例代码
 
