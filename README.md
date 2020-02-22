@@ -18,14 +18,14 @@
 let pageControl = WOPageControl(frame: CGRect(x:110, y:150, width: 200, height: 20))
 view.addSubview(pageControl)
 
-pageControl.cornerRadius = 5;
-pageControl.dotHeight = 10;
-pageControl.dotSpace = 24;
-pageControl.currentDotWidth = 20;
-pageControl.otherDotWidth = 10;
+pageControl.cornerRadius = 5
+pageControl.dotHeight = 10
+pageControl.dotSpace = 24
+pageControl.currentDotWidth = 20
+pageControl.otherDotWidth = 10
 pageControl.otherDotColor = UIColor(red: 232/255.0, green: 234/255.0, blue: 236/255.0, alpha: 1)
 pageControl.currentDotColor = UIColor(red: 34/255.0, green: 34/255.0, blue: 34/255.0, alpha: 1)
-pageControl.numberOfPages = 5;
+pageControl.numberOfPages = 5
 
 // 修改当前页
 pageControl.currentPage = 1
