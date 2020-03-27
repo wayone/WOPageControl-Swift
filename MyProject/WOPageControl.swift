@@ -157,7 +157,7 @@ class WOPageControl: UIView {
         setupUI()
     }
     
-    func setupUI() {
+    private func setupUI() {
         if dotViewArrayM.count == 0 || isInitialize == false {
             return
         }
